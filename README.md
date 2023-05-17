@@ -1,3 +1,5 @@
-# SIMD||DNA
+# SIMD||DNA sequences
 
-The files here contains the Mathematica code used for generating the sequences
+The code for artificially designed sequences can be found at "counter_seq_gen.nb" (generates the sequence space), "counter_4bit_sequence_assignment.nb" (assign sequences for the binary counting program) and "Rule110_useCounterSeq.nb" (assign sequences for the Rule 110 program).
+
+The code for M13 sequences can be found at "M13sequence.nb".
